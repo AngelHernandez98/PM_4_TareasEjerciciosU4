@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="C:\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="0_Plantilla_.asm" />
+    <MASM Include="P1_BuscarMenorArreglo_.asm" />
+    <MASM Include="P2_Mayores_o_Iguales_Promedio_.asm" />
+    <MASM Include="P3_NumerosPares_.asm" />
+    <MASM Include="P4_NumerosMayores_.asm" />
+    <MASM Include="P5_Sumatoria_Matriz3x3_.asm" />
+    <MASM Include="P6_SumatorialFilaMatriz_.asm" />
+    <MASM Include="P7_ValorMayorMatriz_.asm" />
+    <MASM Include="P8_ValorMenorMatriz_.asm" />
+    <MASM Include="P9_NumerosParesMatriz_.asm" />
+    <MASM Include="P10_ComplementoMatriz_.asm" />
+    <MASM Include="P11_FilaValorGrandre_.asm" />
+    <MASM Include="P12_DetermianteMatriz_.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LibreriaMacros.inc" />
+  </ItemGroup>
+</Project>
